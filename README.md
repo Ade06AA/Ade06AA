@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdurrahman
+- 👋 Hi, I’m Abdurrahman, a full stack software engineer.
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning python back-end frame-works
 <!-- 💞️ I’m looking to collaborate on ... -->
